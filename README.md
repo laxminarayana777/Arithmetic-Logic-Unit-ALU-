@@ -37,3 +37,5 @@ I wrote the Verilog code to implement the ALU, using a combination of always blo
 Xilinx Vivado Simulation
 After writing the Verilog code, I simulated the ALU's behavior using Xilinx Vivado. The simulation allowed me to verify the correctness of your design by testing it with various input combinations and opcodes.
 In conclusion, My task involved designing a 3-bit ALU using Verilog, implementing various arithmetic and logical operations, and simulating its behavior using Xilinx Vivado. The ALU's functionality, including the handling of overflow, was successfully implemented and verified through simulation.
+OUTPUT
+![Image](https://github.com/user-attachments/assets/511125b2-8344-4984-92fc-2c5780cec2d4)
